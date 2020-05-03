@@ -1,0 +1,42 @@
+body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+#text1{
+  color:rgb(255, 255, 255);
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 0px 0px 15px;
+  font-weight: bold;
+}
+
+#imageContainer{
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-style: solid;
+  border-width: 20px;
+  border-color: rgba(252,70,107,1) ;
+  margin-right: 34%;
+  margin-left: 34%;
+}
+#altTag{
+  font-weight: bold;
+}
+
+#buttonContainer{
+  text-align: center;
+  margin-top: 4%;
+}
+
+#button{
+  width: 10%;
+  height: 60px;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.28644961402529767) 50%, rgba(252,176,69,1) 100%);
+  border-style: solid;
+  border-width: 1px;
+  border-color:black;
+}
